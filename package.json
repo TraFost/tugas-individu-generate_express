@@ -1,0 +1,26 @@
+{
+  "name": "rahman-nurudin_initialisasi-express",
+  "version": "1.0.0",
+  "description": "tugas inisialisasi dari kak faizul session 24",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "build": "node src/index.js"
+  },
+  "author": "Rahman Nurudin",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "latest",
+    "eslint": "latest",
+    "eslint-config-airbnb-base": "latest",
+    "eslint-config-prettier": "latest",
+    "eslint-plugin-import": "latest",
+    "eslint-plugin-prettier": "latest",
+    "prettier": "latest"
+  },
+  "dependencies": {
+    "express": "latest",
+    "cors": "latest",
+    "dotenv": "latest"
+  }
+}
